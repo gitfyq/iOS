@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/AFNetworking
+END
+AFHTTPSessionManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/AFNetworking/AFHTTPSessionManager.m
+END
+AFURLResponseSerialization.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/AFNetworking/AFURLResponseSerialization.m
+END
+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/AFNetworking/AFNetworking.h
+END
+AFSecurityPolicy.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/AFNetworking/AFSecurityPolicy.h
+END
+AFSecurityPolicy.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/AFNetworking/AFSecurityPolicy.m
+END
+AFURLSessionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/AFNetworking/AFURLSessionManager.h
+END
+AFURLConnectionOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/AFNetworking/AFURLConnectionOperation.h
+END
+AFHTTPRequestOperationManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/AFNetworking/AFHTTPRequestOperationManager.h
+END
+AFNetworkReachabilityManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/AFNetworking/AFNetworkReachabilityManager.h
+END
+AFURLSessionManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/AFNetworking/AFURLSessionManager.m
+END
+AFURLConnectionOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/AFNetworking/AFURLConnectionOperation.m
+END
+AFHTTPRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/AFNetworking/AFHTTPRequestOperation.h
+END
+AFHTTPRequestOperationManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/AFNetworking/AFHTTPRequestOperationManager.m
+END
+AFURLRequestSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/AFNetworking/AFURLRequestSerialization.h
+END
+AFNetworkReachabilityManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/AFNetworking/AFNetworkReachabilityManager.m
+END
+AFURLRequestSerialization.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/AFNetworking/AFURLRequestSerialization.m
+END
+AFHTTPSessionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/AFNetworking/AFHTTPSessionManager.h
+END
+AFHTTPRequestOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/AFNetworking/AFHTTPRequestOperation.m
+END
+AFURLResponseSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/carelink-app/!svn/ver/5/trunk/iOS/PatientClient/KYPatient/OtherFrameworks/AFNetworking/AFURLResponseSerialization.h
+END

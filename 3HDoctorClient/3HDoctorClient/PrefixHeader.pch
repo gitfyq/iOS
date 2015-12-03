@@ -1,0 +1,65 @@
+//
+//  PrefixHeader.pch
+//  3HDoctorClient
+//
+//  Created by 范英强 on 15/11/30.
+//  Copyright (c) 2015年 fyq. All rights reserved.
+//
+
+#ifndef _HDoctorClient_PrefixHeader_pch
+#define _HDoctorClient_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "UIColor+ColorExtension.h"
+#import "UIViewController+Extension.h"
+#import "UIView+BFExtension.h"
+#import "NSString+Extension.h"
+#import "UIButton+EXT.h"
+#import "NSArray+SafeAccess.h"
+#import "NSDictionary+SafeAccess.h"
+#import "JSONKit.h"
+#import "UIImageView+WebCache.h"
+#import "AFNetworking.h"
+#import "Mantle.h"
+#import "TPKeyboardAvoidingScrollView.h"
+#import "TPKeyboardAvoidingTableView.h"
+#import "UIView+Tag.h"
+#import "MKAnnotationView+WebCache.h"
+#import "MJRefresh.h"
+#import "NSString+Size.h"
+#import "SGSaveFile.h"
+
+#import "THNetWorkManager.h"
+#define thServerHost @"http://123.57.231.12:85/dapi.php"
+
+#define WaitPrompt @"请稍后..."
+#define InternetFailerPrompt @"网络有波动，请重新尝试~"
+
+//  屏幕的frame
+#define DeviceFrame [UIScreen mainScreen].bounds
+//  屏幕的size
+#define DeviceSize [UIScreen mainScreen].bounds.size
+//  弱引用宏
+#define WeakSelf(VC) __weak VC *weakSelf = self
+//是否登录过
+#define isLogin @"isLogin"
+
+//  app version
+#define APPVersion [[[NSBundle mainBundle] infoDictionary] objectForKey:@"CFBundleShortVersionString"]
+//  设备id
+#define DeviceId [[[UIDevice currentDevice] identifierForVendor] UUIDString]
+//  弱引用宏
+#define WeakSelf(VC) __weak VC *weakSelf = self
+//  UUID获取
+#define UUID [[[UIDevice currentDevice] identifierForVendor] UUIDString]
+#define DeviceModel [[UIDevice currentDevice] model]
+//  存储token的名字
+#define Token   @"token"
+
+//app主打颜色
+#define AppDefaultColor [UIColor colorWithHEX:0x008aff]
+
+
+#endif
